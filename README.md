@@ -1,10 +1,10 @@
 # Hangman
  A hangman game built on python3.
  <br><br>
- The code was not built by me. It was built by my friend pursuing MBBS. Despite belonging to a non-coding background, my friend worked incredibly hard to build this amazing code. <br><br>
- Apologies, but I will not accept any pull requests/ amendments to this code.<br> I wish to keep it just the way it was meant to be, to respect the hard work of its creator.
+ #### The code was not built by me. It was built by my friend pursuing MBBS. Despite belonging to a non-coding background, my friend worked incredibly hard to build this amazing code. <br><br>
+ #### Apologies, but I will not accept any pull requests/ amendments to this code.<br> I wish to keep it just the way it was meant to be, to respect the hard work of its creator.
  
- ### Setup
+ ## Setup
  
  Download the repository to your computer.
  Extract the files and run game.py
@@ -13,7 +13,7 @@
  
  External libraries used: None
  
- ### File Descriptions
+ ## File Descriptions
  
  /meta: stores six different colored hangman logos, which can be used in a tkinter interface, in case you wish to build a GUI.
  <br><br>
@@ -23,7 +23,7 @@
  <br><br>
  highscores.txt: stores the high scores in a simple text file. Does not associate player name with highscore.
  
- ### Developments
+ ## Developments
  
  As the code has not been changed, it leaves a major scope for further developments. 
  <br>
