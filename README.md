@@ -1,4 +1,10 @@
 # Hangman
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
+![PRs-closed](https://img.shields.io/badge/PRs-Closed-red)
+![repo-size](https://img.shields.io/github/repo-size/aviral36/hangman?color=yellow)
+![files](https://img.shields.io/badge/files-13-green)
+
  A hangman game built on python3.
  <br><br>
  #### The code was not built by me. It was built by my friend pursuing MBBS. Despite belonging to a non-coding background, my friend worked incredibly hard to build this amazing code. <br><br>
