@@ -6,10 +6,10 @@
 ![files](https://img.shields.io/badge/files-13-green)
 
  A hangman game built on python3.
- <br><br>
- #### The code was not built by me. It was built by my friend pursuing MBBS. Despite belonging to a non-coding background, my friend worked incredibly hard to build this amazing code. <br><br>
- #### Apologies, but I will not accept any pull requests/ amendments to this code.<br> I wish to keep it just the way it was meant to be, to respect the hard work of its creator.
- 
+ <br>
+The code was not built by me. It was built by my friend pursuing MBBS. Despite belonging to a non-coding background, my friend worked incredibly hard to build this amazing code. <br>
+Apologies, but I will not accept any pull requests/ amendments to this code.<br> I wish to keep it just the way it was meant to be, to respect the hard work of its creator.
+ <br>
  ## Setup
  
  Download the repository to your computer.
